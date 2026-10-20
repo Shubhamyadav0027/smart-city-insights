@@ -1,5 +1,5 @@
 streamlit
 pandas
-plotly
+plotly>=5.0.0
 folium
 streamlit-folium
